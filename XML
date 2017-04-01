@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logmanufacturing SYSTEM "logmanufacturing.dtd">
+<logmanufacturing>
+	<president>
+		<nama>Yudi Hartono,Amd.TI</nama>
+		<namapgl>Yudi</namapgl>
+		<nope>081243354678</nope>
+		<jk>laki-laki</jk>
+		<alamat>jl.Sukawarna no.71,Sarijadi</alamat>
+		<ttl>Jember, 20-1-1962</ttl>
+		<email>yudihartono@yahoo.com</email>
+		<agama>Islam</agama>
+		<umur>55</umur>
+		<status>Menikah</status>
+	</president>
+	<manager>
+		<nama>Tri Sulistiyani,Str.Kom</nama>
+		<namapgl>Sulis</namapgl>
+		<nope>098854324567</nope>
+		<jk>perempuan</jk>
+		<alamat>jl.Banda no.721,Bandung</alamat>
+		<ttl>Bandung, 16-3-1973</ttl>
+		<email>sulistyani@yahoo.com</email>
+		<agama>Kristen</agama>
+		<umur>44</umur>
+		<status>Belum Menikah</status>
+	</manager>
+	<sales>
+		<nama>Mamik Minpri H.A</nama>
+		<namapgl>Manik</namapgl>
+		<nope>098867655444</nope>
+		<jk>perempuan</jk>
+		<alamat>jl.Ir.Supratman no.567,Bandung</alamat>
+		<ttl>Bandung, 28-8-1976</ttl>
+		<email>manikminpri12@yahoo.com</email>
+		<agama>Kristen</agama>
+		<umur>41</umur>
+		<status>Menikah</status>
+	</sales>
+	<accounting>
+		<nama>Dwi Reni Fatmawati</nama>
+		<namapgl>Reni</namapgl>
+		<nope>086656534234</nope>
+		<jk>perempuan</jk>
+		<alamat>jl.Teuku Banjari no.453,Bandung</alamat>
+		<ttl>Pinrang, 10-5-1982</ttl>
+		<email>dwireni1213@yahoo.com</email>
+		<agama>Islam</agama>
+		<umur>35</umur>
+		<status>Belum Menikah</status>
+	</accounting>
+	<hrd>
+		<nama>Suyono,Smpti</nama>
+		<namapgl>Nono</namapgl>
+		<nope>08453241235</nope>
+		<jk>laki-laki</jk>
+		<alamat>jl.Pejuang Perjungan no.562,Bandung</alamat>
+		<ttl>Sidrap, 10-10-1970</ttl>
+		<email>nono34@yahoo.com</email>
+		<agama>Hindu</agama>
+		<umur>47</umur>
+		<status>Menikah</status>
+	</hrd>	
+</logmanufacturing>
+	
