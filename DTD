@@ -1,0 +1,65 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT logmanufacturing (president,manager,sales,accounting,hrd)>
+<!ATTLIST logmanufacturing
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT president (nama,namapgl,nope,jk,alamat,ttl,email,agama,umur,status)>
+<!ATTLIST president
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT manager (nama,namapgl,nope,jk,alamat,ttl,email,agama,umur,status)>
+<!ATTLIST manager
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT sales (nama,namapgl,nope,jk,alamat,ttl,email,agama,umur,status)>
+<!ATTLIST sales
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT accounting (nama,namapgl,nope,jk,alamat,ttl,email,agama,umur,status)>
+<!ATTLIST accounting
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT hrd (nama,namapgl,nope,jk,alamat,ttl,email,agama,umur,status)>
+<!ATTLIST hrd
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama (#PCDATA)>
+<!ATTLIST nama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT namapgl (#PCDATA)>
+<!ATTLIST namapgl
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nope (#PCDATA)>
+<!ATTLIST nope
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jk (#PCDATA)>
+<!ATTLIST jk
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat (#PCDATA)>
+<!ATTLIST alamat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT ttl (#PCDATA)>
+<!ATTLIST ttl
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT agama (#PCDATA)>
+<!ATTLIST agama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT umur (#PCDATA)>
+<!ATTLIST umur
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status
+    xmlns CDATA #FIXED ''>
